@@ -1,0 +1,124 @@
+1: Entrées
+- Gyoza (A1)
+- Croquettes de crevettes frits (A2)
+- Crevette frit (A3)
+- Nêms poulet (A4)
+- Nêms végétariens (A5)
+- Nêms crevettes (A6)
+- Tempura crevettes (A7)
+- Samoussa au boeuf (A8)
+- Edamame (A9)
+- Riz blanc
+- Riz Thaï
+
+2: Salades
+- Salade d’algue (G1)
+- Salade de papaye aux crevettes (G2)
+- Salade de boeuf citronnelle (G4)
+- Rouleaux de Printemps Végétariens (G5)
+- Rouleaux de Printemps Boeuf  (G6)
+- Rouleaux de Printemps Crevette (G7)
+- Rouleaux de Printemps Poulet (G8)
+
+3: Vapeurs
+- Crêpe vietnamienne aux crevettes (V1)
+- Crêpe vietnamienne au poulet  (V2)
+- Raviolis aux crevettes  (V3)
+- Bouchées aux crevettes (V4)
+- Assortiment vapeur (V5)
+
+4: Nos BoBun
+- Boeuf (B1)
+- Saumon grillé (B2)
+- Poulet grillé citronnelle (B3)
+- Crevettes (B4)
+- Végétarien (B5)
+- Poulet pané et aux crevette tempura (B6)
+
+5: Pho
+- Spéciale pho (S1)
+- Boeuf cru et aux boulette (S2)
+- Boeuf cru (S3)
+- Boeuf cuit (S4)
+- Boulettes de boeuf (S5)
+- Poulet (S6)
+
+6: Soupe de Nouilles
+- boeuf (S7)
+- Crevettes (S8)
+- Légumes (S9)
+- Canard (S10)
+- Raviolis aux crevettes (S14)
+
+7: Bento
+- Boeuf citronnelle (BT1)
+- Poulet pané (BT2)
+- Végétarien (BT3)
+
+8: Plat + Riz
+- Poulet grillé à la citronnelle (R5)
+- Riz au canard laqué (R6)
+- Boeuf sauté façon "Loc Lac" (R7)
+- Crevettes sautées façon "Loc Lac"  (R8)
+
+9: Pâtes Thaï
+- Canard (P1)
+- Crevettes (P2)
+- Poulet (P3)
+- Tofu aux légumes (P4)
+- Boeuf (P5)
+- Boeuf saté  (P5S)
+
+10: NOUILLE SAUTÉE
+- Canard (P1N)
+- Crevettes (P2N)
+- Poulet pané  (P3N)
+- Tofu aux légumes  (P4N)
+- Boeuf (P5N)
+- Boeuf saté  (P5NS)
+
+11: RIZ SAUTÉ
+- Boeuf thaï (R1)
+- Tofu aux légumes (R2)
+- Crevette thaï (R3)
+- Poulet au curry et lait de coco thaï (R9)
+
+12: DESSERT
+- Mochi(Haricot rouge/sésame)
+- Mochi glacé (Litchi/mangue/sakura/Thé vert/vanille)
+- Lychee au sirop
+- Tapioca à la mangue et au lait de coco
+- Nougats sésame
+- Gingembre confit
+- Perles de coco
+
+13: Menu Bonheur
+- MENU BONHEUR(1Gyoza ou 2Nêms)(3 Nougat ou 4 Lychee ou 5 Tapioca au lait de coco)( Bobun(boeuf ou poulet) ou 8 Nouilles sautées (boeuf ou poulet pané) ou 9 Poulet à la citronnelle + riz)
+
+14: Boissons
+- Evian 
+- San Pellegrino
+
+- Jus de fruits (25cl) (orange / ananas / abricot / mangue / lychee)
+- Lait de soja 
+- Jus de coco 
+- Coca / Coca Zéro / Ice tea / Orangina (33cl)
+
+15: VINS ROUGES
+- Côtes du Rhône
+- Blaye Côtes de Bordeaux
+- Brouilly
+
+16: VINS ROSÉS
+- Côtes du Provence 
+- Tavel 
+
+17: VINS BLANCS
+- Risling
+- Sancerre blanc 
+
+18: BIÈRES
+- Bière thaïlandaise Singha(33cl)
+- Bière Saigon(33cl)
+- Bière "Tsing Tao" (33cl)
+
